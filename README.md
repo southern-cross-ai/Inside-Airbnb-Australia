@@ -1,7 +1,7 @@
 # Inside Airbnb Australia
 
 ## Overview
-**Keywords**: Australia; Airbnb; Review
+**Keywords**: Australia; Airbnb; Comment and Review
 
 [Inside Airbnb](https://insideairbnb.com/) is a mission driven project that provides data and advocacy about Airbnb's impact on residential communities, aims to work towards a vision where communities are empowered with data and information to understand, decide and control the role of renting residential homes to tourists.
 
@@ -39,6 +39,8 @@ Naming convention:
 Notice that the `[date]` is used to build URLs to retrieve and download the data, doesn't necessarily represent the date of the data.
 
 For more information about the data, please refer to [Get the data - Inside Airbnb](https://insideairbnb.com/get-the-data/).
+
+(Last updated on 18 August 2024)
 
 ## Download
 
